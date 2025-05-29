@@ -6,7 +6,7 @@ $posts =
 
     [
         'id' => 1,
-        'title' => 'PHP vai morrer ?',
+        'title' => 'Porque aprender programação é dificíl ?',
         'description' => 'Será que PHP está morrendo ? Qual será o futuro desta linguagem ?',
         'tags' => ['programação', 'PHP', 'lógica de programação'],
         'img' => 'prog-1.jpg'
@@ -22,7 +22,7 @@ $posts =
 
     [
         'id' => 3,
-        'title' => 'Arquiteturas de softwares o que são ?',
+        'title' => 'para que serve as arquiteturas de softwares ?',
         'description' => 'Como são implementadas as arquiteruras de software, confira neste post',
         'tags' => ['programação', 'linguagem de programação', 'lógica de programação'],
         'img' => 'prog-3.jpg'
