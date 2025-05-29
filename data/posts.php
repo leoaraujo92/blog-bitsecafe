@@ -7,9 +7,10 @@ $posts =
     [
         'id' => 1,
         'title' => 'Porque aprender programação é dificíl ?',
-        'description' => 'Será que PHP está morrendo ? Qual será o futuro desta linguagem ?',
+        'description' => 'Quem já tentou aprender a programar sabe: não é só digitar códigos e ver mágica acontecer. Programar é difícil — e isso não é apenas uma impressão. Mas por que exatamente essa habilidade, tão valorizada e promissora, apresenta tantos desafios ?',
         'tags' => ['programação', 'PHP', 'lógica de programação'],
-        'img' => 'prog-1.jpg'
+        'img' => 'prog-1.jpg',
+        'article' => 'Programar é como resolver um quebra-cabeça onde as peças não estão visíveis. É preciso quebrar problemas grandes em partes menores, criar soluções passo a passo e, muitas vezes, pensar de forma não linear. Para quem não está acostumado a esse tipo de raciocínio, o começo pode ser bastante frustrante.'
     ],
 
     [
